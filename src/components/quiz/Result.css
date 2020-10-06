@@ -1,0 +1,10 @@
+.result{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.result > button{
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
